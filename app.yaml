@@ -1,1 +1,2 @@
+name: databricks-app-example
 command: ["streamlit", "run", "app.py"]
